@@ -39,13 +39,17 @@ $colors: (
   danger:     #f53d3d,
   light:      #f4f4f4,
   dark:       #222,
+  toolbar-text:    #ffffff,
+  toolbar-border:     #efefef,
+  toolbar-active: blue,
+  toolbar-inactive: grey,
 );
 
-$toolbar-background: bisque;
-$toolbar-text-color: white;
-$toolbar-border-color: #efefef;
-$toolbar-active-color: blue;
-$toolbar-inactive-color: grey;
+$toolbar-background: color($colors, primary, base);
+$toolbar-text-color: color($colors, toolbar-text, base);
+$toolbar-border-color: color($colors, toolbar-border, base);
+$toolbar-active-color: color($colors, toolbar-active, base);
+$toolbar-inactive-color: color($colors, toolbar-inactive, base);
 // App iOS Variables
 // --------------------------------------------------
 // iOS only Sass variables can go here
