@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702094498151",
+    "firebase_url": "https://ccapp-00004.firebaseio.com",
+    "project_id": "ccapp-00004",
+    "storage_bucket": "ccapp-00004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702094498151:android:e8a0265d61232acd",
+        "android_client_info": {
+          "package_name": "com.ketanyekale.ceionicdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702094498151-33i0d50jpp2cf38sd0096656i5uoaid0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChhxUcv1o47LNx5x3PrUlGaRxLqcRZBTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
